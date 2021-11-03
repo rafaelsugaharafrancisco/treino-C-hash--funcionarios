@@ -1,0 +1,16 @@
+C:\Users\rafap\source\repos\appFuncionarios\appFuncionarios\bin\Debug\net5.0\appFuncionarios.exe
+C:\Users\rafap\source\repos\appFuncionarios\appFuncionarios\bin\Debug\net5.0\appFuncionarios.deps.json
+C:\Users\rafap\source\repos\appFuncionarios\appFuncionarios\bin\Debug\net5.0\appFuncionarios.runtimeconfig.json
+C:\Users\rafap\source\repos\appFuncionarios\appFuncionarios\bin\Debug\net5.0\appFuncionarios.runtimeconfig.dev.json
+C:\Users\rafap\source\repos\appFuncionarios\appFuncionarios\bin\Debug\net5.0\appFuncionarios.dll
+C:\Users\rafap\source\repos\appFuncionarios\appFuncionarios\bin\Debug\net5.0\ref\appFuncionarios.dll
+C:\Users\rafap\source\repos\appFuncionarios\appFuncionarios\bin\Debug\net5.0\appFuncionarios.pdb
+C:\Users\rafap\source\repos\appFuncionarios\appFuncionarios\obj\Debug\net5.0\appFuncionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafap\source\repos\appFuncionarios\appFuncionarios\obj\Debug\net5.0\appFuncionarios.AssemblyInfoInputs.cache
+C:\Users\rafap\source\repos\appFuncionarios\appFuncionarios\obj\Debug\net5.0\appFuncionarios.AssemblyInfo.cs
+C:\Users\rafap\source\repos\appFuncionarios\appFuncionarios\obj\Debug\net5.0\appFuncionarios.csproj.CoreCompileInputs.cache
+C:\Users\rafap\source\repos\appFuncionarios\appFuncionarios\obj\Debug\net5.0\appFuncionarios.dll
+C:\Users\rafap\source\repos\appFuncionarios\appFuncionarios\obj\Debug\net5.0\ref\appFuncionarios.dll
+C:\Users\rafap\source\repos\appFuncionarios\appFuncionarios\obj\Debug\net5.0\appFuncionarios.pdb
+C:\Users\rafap\source\repos\appFuncionarios\appFuncionarios\obj\Debug\net5.0\appFuncionarios.genruntimeconfig.cache
+C:\Users\rafap\source\repos\appFuncionarios\appFuncionarios\obj\Debug\net5.0\appFuncionarios.csproj.AssemblyReference.cache
